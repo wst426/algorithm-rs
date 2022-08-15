@@ -10,9 +10,13 @@ Rust 的算法练习。
 
 哈希:
 - [1. Two Sum](./leetcode/1.rs)
+- [136. Single Number](./leetcode/136.rs)
 
 动态规划:
 - [121. Best Time to Buy and Sell Stock](./leetcode/121.rs)
 
 单调栈:
 - [121. Best Time to Buy and Sell Stock](./leetcode/121.rs)
+
+位运算:
+- [136. Single Number](./leetcode/136.rs)
